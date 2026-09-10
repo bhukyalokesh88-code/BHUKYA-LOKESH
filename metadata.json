@@ -1,0 +1,6 @@
+{
+  "name": "AI-FORCE – Public Health Chatbot",
+  "description": "Multilingual AI-driven public health chatbot for disease awareness, symptom checking, vaccination reminders, and nearby clinic navigation.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
